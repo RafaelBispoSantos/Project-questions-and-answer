@@ -1,0 +1,19 @@
+{
+  "name": "project-questions-and-answer",
+  "version": "1.0.0",
+  "description": "site de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelBispoSantos/Project-questions-and-answer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelBispoSantos/Project-questions-and-answer/issues"
+  },
+  "homepage": "https://github.com/RafaelBispoSantos/Project-questions-and-answer#readme"
+}
